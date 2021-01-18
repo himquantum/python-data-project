@@ -11,3 +11,4 @@ plan_3 = str(title).find("From $611,990")
 
 if plan_3 < 0:
     print("Zephyr plan 3 price has changed !! CHECK NOW")
+#edit
