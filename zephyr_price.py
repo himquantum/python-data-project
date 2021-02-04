@@ -3,7 +3,7 @@ import time
 from bs4 import BeautifulSoup  # to parse the data from url
 from playsound import playsound
 
-sound_file = "C:\\kislay\\train_duck.wav"
+sound_file = "C:\\himanshu\\alarm_sound.wav"
 wood_url = "https://www.woodsidehomes.com/california-east-bay-sacramento/california-community-zephyr-at-ellis-station"
 response = requests.get(wood_url)
 response_text = response.text
